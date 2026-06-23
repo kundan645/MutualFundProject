@@ -1,0 +1,21 @@
+DATA QUALITY SUMMARY
+
+1. Total schemes in fund_master: 40
+2. Total schemes in nav_history: 40
+3. Missing AMFI codes: 0
+4. Categories identified:
+   - Equity
+   - Debt
+5. Total Fund Houses: 10
+6. Risk Categories:
+   - Low
+   - Moderate
+   - Moderately High
+   - High
+   - Very High
+7. Data Consistency:
+   - All AMFI codes validated successfully.
+   - No missing scheme mappings detected.
+   - Dataset structure appears consistent.
+
+Overall Data Quality: GOOD
