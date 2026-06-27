@@ -74,7 +74,7 @@ Source: Investor Transaction Data
 | payment_mode       | TEXT      | Payment method             |
 | kyc_status         | TEXT      | Verified / Pending         |
 
----
+--- 
 
 ## Database
 
